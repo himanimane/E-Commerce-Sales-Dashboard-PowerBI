@@ -26,6 +26,10 @@ sales performance and generate meaningful business insights.
 Download the `.pbix` file from this repository and open it
 using Microsoft Power BI Desktop.
 
+## Dashboard Preview
+
+![Power BI Dashboard](dashboard-preview.png)
+
 ## Author
 Himani Mane
 
